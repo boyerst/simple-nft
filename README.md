@@ -73,7 +73,7 @@ yarn deploy
 
 ---
 
-# Checkpoint 2: 🖨 Minting 
+# Checkpoint 2: 🖨 Minting
 
 > ✏️ Mint some NFTs!  Click the `MINT NFT` button in the YourCollectables tab.  
 
